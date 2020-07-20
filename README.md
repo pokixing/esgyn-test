@@ -1,1 +1,2 @@
 # esgyn-test
+TRAF_SEQUENCE_USE_DLOCK
